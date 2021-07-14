@@ -25,7 +25,7 @@ public class Main {
         System.out.println(section);
         System.out.println(info.name);
         System.out.println(info.id);
-        System.out.println(hoby.hobbyName);
+        System.out.println(hoby.HobbyName);
 
     }
 }
