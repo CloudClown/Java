@@ -1,1 +1,3 @@
 # Java
+
+All the exercise 
