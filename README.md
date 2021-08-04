@@ -1,6 +1,6 @@
 # Java
 
-Task 1 Marks 30
+## Task 1 Marks 30
 1. Create a package of your name.
 2. Inside the package creates three classes. The name of the classes will be Main, Info,
 Hobby.
@@ -22,7 +22,7 @@ the link with me through the classroom assignment section.
 2. Use the google drive of your official student mail.
 3. Late submission means no marking. Be careful.
 
-Task 2 Marks 30
+## Task 2 Marks 30
 1. Create a package of your name.
 2. Inside the package creates two classes. The name of the classes will be Main, Student.
 3. Student class will have two instance variables titled name(String) and id(integer) and
