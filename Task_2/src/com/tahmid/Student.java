@@ -12,7 +12,7 @@ public class Student {
     String name;
     int id;
 
-    static String UniversityName = "Leading University";
+    static String universityName = "Leading University";
 
     Student() {
         // Default constructor
@@ -28,6 +28,6 @@ public class Student {
     }
 
     void display() {
-        System.out.println(Student.UniversityName);
+        System.out.println(Student.universityName);
     }
 }
