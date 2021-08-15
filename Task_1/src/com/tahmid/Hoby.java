@@ -9,5 +9,5 @@
 package com.tahmid;
 
 public class Hoby {
-    String HobbyName = "Playing Game";
+    String hobbyName = "Playing Game";
 }
