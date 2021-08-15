@@ -11,10 +11,10 @@ package com.tahmid;
 public class Main {
 
     public static void main(String[] args) {
-        Student StudentDefault = new Student();
+        Student studentDefault = new Student();
         Student studentSingleParaConstructor = new Student(72);
         Student studentDoubleParaConstructor = new Student(72, "Tahmid");
 
-        StudentDefault.display();
+        studentDefault.display();
     }
 }
