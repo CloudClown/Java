@@ -76,5 +76,21 @@ Submission Process
 the link with me through the classroom assignment section.
 2. Use the google drive of your official student mail.
 3. Late submission means no marking. Be careful.
-4. 
+
+## UML Class Diagram
+
 ![2012020072](https://user-images.githubusercontent.com/56092072/134782449-220ecb98-d6f1-40e0-87ea-ba594ae3621e.png)
+Create a class Gadget that has two instance variable name (String-public), price (int-public), and
+a constructor to initialize them. Write a method aboutGadget() that prints a welcome message.
+Create another class Laptop that inherits from Gadget. Write a constructor Laptop() that sets the
+price as 50,000 by calling a superclass constructor. Create another class of your name, i.e AAC.
+It will extend the Laptop class. AAC() will set the name of the laptop as MSi. Override
+aboutGadget() method to provide a full description of the gadget.
+Topics here: Inheritance
+Submission Process
+
+1. Write your ID below the diagram
+2. Extract pdf of the diagram from draw.io
+3. Attach the pdf file on the classroom
+4. Pdf name will be your ID
+5. Late submission means no marking. Be careful.
